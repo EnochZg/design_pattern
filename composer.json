@@ -1,0 +1,9 @@
+{
+    "name": "root/design-pattern",
+    "require": {},
+    "autoload": {
+        "psr-4" : {
+            "builder\\": "builder/"
+        }
+    }
+}
