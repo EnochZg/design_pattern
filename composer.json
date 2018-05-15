@@ -3,7 +3,8 @@
     "require": {},
     "autoload": {
         "psr-4" : {
-            "builder\\": "builder/"
+            "builder\\": "builder/",
+            "prototype\\": "prototype/"
         }
     }
 }
