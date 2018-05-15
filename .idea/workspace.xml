@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3d1913b2-10a5-4763-9859-f687ad0f136b" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/prototype/Demo.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prototype/IPrototype.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prototype/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-    </list>
+    <list default="true" id="3d1913b2-10a5-4763-9859-f687ad0f136b" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,11 +23,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/prototype/index.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="168">
               <caret line="7" column="24" lean-forward="true" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/prototype/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="530">
+                <caret line="59" column="147" selection-start-line="59" selection-start-column="147" selection-end-line="59" selection-end-column="147" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -77,6 +84,7 @@
         <option value="$PROJECT_DIR$/prototype/Client.php" />
         <option value="$PROJECT_DIR$/composer.json" />
         <option value="$PROJECT_DIR$/prototype/index.php" />
+        <option value="$PROJECT_DIR$/prototype/README.md" />
       </list>
     </option>
   </component>
@@ -162,12 +170,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1526394239645</updated>
-      <workItem from="1526394241324" duration="2484000" />
+      <workItem from="1526394241324" duration="2859000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2484000" />
+    <option name="totallyTimeSpent" value="2859000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -284,6 +292,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
           <caret line="7" column="24" lean-forward="true" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prototype/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="530">
+            <caret line="59" column="147" selection-start-line="59" selection-start-column="147" selection-end-line="59" selection-end-column="147" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
